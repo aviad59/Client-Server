@@ -1,0 +1,3 @@
+﻿Client.obj : error LNK2019: unresolved external symbol __imp__socket@12 referenced in function _main
+Client.obj : error LNK2019: unresolved external symbol __imp__WSAStartup@8 referenced in function _main
+C:\Users\HPPC\Desktop\Server-Client\Debug\Client.exe : fatal error LNK1120: 2 unresolved externals
